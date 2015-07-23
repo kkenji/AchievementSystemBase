@@ -1,0 +1,6 @@
+c:\users\ken\documents\visual studio 2015\Projects\AchievementSystem\AchievementSystem\bin\AchievementSystem.dll.config
+c:\users\ken\documents\visual studio 2015\Projects\AchievementSystem\AchievementSystem\bin\AchievementSystem.dll
+c:\users\ken\documents\visual studio 2015\Projects\AchievementSystem\AchievementSystem\bin\AchievementSystem.pdb
+c:\users\ken\documents\visual studio 2015\Projects\AchievementSystem\AchievementSystem\obj\Debug\AchievementSystem.csprojResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2015\Projects\AchievementSystem\AchievementSystem\obj\Debug\AchievementSystem.dll
+c:\users\ken\documents\visual studio 2015\Projects\AchievementSystem\AchievementSystem\obj\Debug\AchievementSystem.pdb
